@@ -1,3 +1,3 @@
 # continuada-1
 
-### Este repositório tratase de um projeto avaliativo para Android.
+##### Este repositório tratase de um projeto avaliativo para Android.
